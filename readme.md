@@ -1,6 +1,6 @@
 <h1>OpenSEES Autocompletion and Callhint in Notepad++</h1>
 
-This project is helpful to those who create <a href="http://opensees.berkeley.edu.cn">OpenSEES</a> model with Notepad++. The goal of this project is to make creating OpenSEES tcl code as easy as coding in visual studio.
+This project is helpful to those who create <a href="http://opensees.berkeley.edu">OpenSEES</a> model with Notepad++. The goal of this project is to make creating OpenSEES tcl code as easy as coding in visual studio.
 
 <h2>Features</h2>
 
@@ -13,9 +13,13 @@ This project is helpful to those who create <a href="http://opensees.berkeley.ed
 <h2>Screenshots</h2>
 
 <img src="coding_interface.jpg" alt="Coding interface" />
+<br>
 <img src="autocompletion.jpg" alt="Autocompletion" />
+<br>
 <img src="hint_1.jpg" alt="Hint 1" />
+<br>
 <img src="hint_2.jpg" alt="Hint 2" />
+<br>
 
 <h2>Installation</h2>
 
