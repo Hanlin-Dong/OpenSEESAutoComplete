@@ -14,11 +14,19 @@ This project is helpful to those who create <a href="http://opensees.berkeley.ed
 
 <img src="coding_interface.jpg" alt="Coding interface" />
 <br>
+Coding interface
+<br>
 <img src="autocompletion.jpg" alt="Autocompletion" />
+<br>
+AutoCompletion
 <br>
 <img src="hint_1.jpg" alt="Hint 1" />
 <br>
+Hint 1
+<br>
 <img src="hint_2.jpg" alt="Hint 2" />
+<br>
+Hint 2
 <br>
 
 <h2>Installation</h2>
