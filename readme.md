@@ -12,7 +12,7 @@ This project is helpful to those who create <a href="http://opensees.berkeley.ed
 
 <h2>Screenshots</h2>
 
-<img src="coding_interface.jpg" alt="Coding interface" />
+<img src="coding_interface.png" alt="Coding interface" />
 <br>
 Coding interface
 <br>
@@ -34,8 +34,9 @@ Hint 2
 <ul>
 <li>Download both <em>userDefineLang_opensees.xml</em> and <em>opensees.xml</em></li>
 <li>Start up Notepad++, click on "Language" followed by "Define your language..."</li>
-<li>Click on "Import..." button and import file <em>opensees.xml</em>.</li>
+<li>Click on "Import..." button and import file <em>opensees_UserLang.xml</em>.</li>
 <li>Open up the <em>plugins/APIs</em> directory in your Notepad++ installation directory and past <em>opensees.xml</em> inside</li>
+<li>I highly recommend you to use with the Obsidian Theme and Enable global background color!</li>
 <li>Restart Notepad++ and enjoy!</li>
 </ul>
 
